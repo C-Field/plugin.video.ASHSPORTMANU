@@ -1,7 +1,7 @@
 <item>
 <title>UFC<title>
 <link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/mike/mike/392.ch;streamtype=TSDOWNLOADER&;name=UFC<link>
-<thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
