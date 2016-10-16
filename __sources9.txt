@@ -1,11 +1,17 @@
 <item>
+<title>UFC<title>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.164.175:8080/mike/mike/392.ch;streamtype=TSDOWNLOADER&;name=UFC<link>
+<thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
+</item>
+
+<item>
 <title>BT SPORT 1<title>
 <link>plugin://plugin.video.f4mTester/?url=http://royal-iptv.noip.me:2052/live/luke/luke/7031.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
 
 <item>
-<title>BT SPORT 1<title>
+<title>BT SPORT 1<title>http://37.187.164.175:8080/mike/mike/392.ch
 <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/les/les/543.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
 <thumbnail>http://images.pitchero.com/nl/1423850524_original.jpg</thumbnail>
 </item>
