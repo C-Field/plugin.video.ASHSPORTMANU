@@ -615,3 +615,15 @@
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/deb/deb/13570.ts;streamtype=TSDOWNLOADER&;name=BIKE<link>
 <thumbnail>http://www.bikechannel.co.uk/wp-content/uploads/2016/03/Bike-Logo-RGB.png</thumbnail>
 </item>
+
+<item>
+<title>TV3 Sport 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1651.ts;streamtype=TSDOWNLOADER&;name=TV3Sport1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TV3 Sport 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/marinko/marinko/1651.ts;streamtype=TSDOWNLOADER&;name=TV3Sport2<link>
+<thumbnail></thumbnail>
+</item>
