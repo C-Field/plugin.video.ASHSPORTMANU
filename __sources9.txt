@@ -1,4 +1,40 @@
 <item>
+<title>Sky Net Sports 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/21520.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTS1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Net Sports 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/21518.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTS2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Net Sports 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/21517.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTS3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Net Sports 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/21516.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTS4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Net Sports 5<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/21515.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTS5<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Net Sports 6<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/dunny8/dunny8/21514.ts;streamtype=TSDOWNLOADER&;name=SKYNETSPORTS6<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>MIO STADIUM<title>
 <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/billy/billy/8537.ts;streamtype=TSDOWNLOADER&;name=MIOSTADIUM<link>
 <thumbnail></thumbnail>
