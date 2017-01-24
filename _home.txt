@@ -12,6 +12,15 @@
 
 <channels>
 <channel>
+<name>USA CHANNELS</name>
+<thumbnail>http://marketinggraphics.co/wp-content/uploads/2015/07/made-in-the-usa-thumbnail-400x400.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources11.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
 <name>SKY CHANNELS</name>
 <thumbnail>http://d.ibtimes.co.uk/en/full/1467855/sky-tv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources2.txt</externallink>
@@ -66,6 +75,15 @@
 
 <channels>
 <channel>
+<name>4K Movies</name>
+<thumbnail>http://vignette1.wikia.nocookie.net/memoryalpha/images/e/e7/4K_Ultra_HD_logo.jpg/revision/latest?cb=20160409040432&path-prefix=en</thumbnail>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources10.txt</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channels>
+<channel>
 <name>SPORT</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources9.txt</externallink>
@@ -84,7 +102,7 @@
 
 <channels>
 <channel>
-<name>SERVER</name>
+<name>24/7 Channels</name>
 <thumbnail>https://i.ytimg.com/vi/ZYqGcA3OqKQ/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.C-Field/master/__sources1.txt</externallink>
 <fanart></fanart>
